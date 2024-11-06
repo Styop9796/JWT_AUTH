@@ -7,5 +7,4 @@ This is a Django project that implements **JSON Web Token (JWT)** authentication
 - **JWT Authentication**: Secure API access with JWT tokens.
 - **Token Expiration**: Tokens have an expiration time to ensure security.
 - **Refresh Tokens**: Allows users to refresh expired tokens without re-authenticating.
-- **User Registration and Login**: Basic endpoints for user registration and login.
 - **Easy Setup**: Ready-to-use Django project for quick integration.
